@@ -1,0 +1,1400 @@
+﻿Log file open, 01/22/23 18:15:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=22716)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject2
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/MyProject2.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.1455] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="17423289449e79330d8436ade2fc2b62"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.243473
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-B74CE55D4E976974C6EB87B77BD9DC42
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.1455] (), CPU: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.01.22-17.16.00:324][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.01.22-17.16.00:324][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.01.22-17.16.00:324][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.01.22-17.16.00:327][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.01.22-17.16.00:327][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.01.22-17.16.00:327][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.01.22-17.16.00:327][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.01.22-17.16.00:327][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.01.22-17.16.00:327][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.01.22-17.16.00:327][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.01.22-17.16.00:327][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.01.22-17.16.00:327][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.01.22-17.16.00:327][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.01.22-17.16.00:327][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.01.22-17.16.00:344][  0]LogD3D12RHI: Aftermath initialized
+[2023.01.22-17.16.00:344][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.01.22-17.16.00:492][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2023.01.22-17.16.00:492][  0]LogD3D12RHI: Adapter has 6023MB of dedicated video memory, 0MB of dedicated system memory, and 8010MB of shared system memory, 1 output[s]
+[2023.01.22-17.16.00:532][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2023.01.22-17.16.00:532][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8010MB of shared system memory, 0 output[s]
+[2023.01.22-17.16.00:540][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.01.22-17.16.00:540][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8010MB of shared system memory, 0 output[s]
+[2023.01.22-17.16.00:541][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.01.22-17.16.00:541][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.22-17.16.00:541][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.01.22-17.16.00:541][  0]LogHAL: Display: Platform has ~ 16 GB [16800256000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.01.22-17.16.00:541][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.01.22-17.16.00:541][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.01.22-17.16.00:541][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.01.22-17.16.00:541][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.01.22-17.16.00:541][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Config/WindowsEditor/Editor.ini]
+[2023.01.22-17.16.00:541][  0]LogInit: Computer: GREGORVICTUS
+[2023.01.22-17.16.00:541][  0]LogInit: User: grego
+[2023.01.22-17.16.00:541][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.01.22-17.16.00:541][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.01.22-17.16.00:541][  0]LogMemory: Memory total: Physical=15.6GB (16GB approx)
+[2023.01.22-17.16.00:541][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.01.22-17.16.00:541][  0]LogMemory: Process Physical Memory: 278.04 MB used, 282.32 MB peak
+[2023.01.22-17.16.00:541][  0]LogMemory: Process Virtual Memory: 237.69 MB used, 237.69 MB peak
+[2023.01.22-17.16.00:541][  0]LogMemory: Physical Memory: 9896.07 MB used,  6125.90 MB free, 16021.97 MB total
+[2023.01.22-17.16.00:541][  0]LogMemory: Virtual Memory: 14933.33 MB used,  17110.62 MB free, 32043.95 MB total
+[2023.01.22-17.16.00:541][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.01.22-17.16.00:548][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.01.22-17.16.00:565][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.01.22-17.16.00:567][  0]LogInit: Using OS detected language (fr-FR).
+[2023.01.22-17.16.00:567][  0]LogInit: Using OS detected locale (fr-FR).
+[2023.01.22-17.16.00:572][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so 'fr' will be used for the language.
+[2023.01.22-17.16.00:572][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2023.01.22-17.16.00:572][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2023.01.22-17.16.00:572][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2023.01.22-17.16.00:572][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2023.01.22-17.16.00:572][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2023.01.22-17.16.00:572][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2023.01.22-17.16.00:572][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2023.01.22-17.16.00:573][  0]LogInit: Setting process to per monitor DPI aware
+[2023.01.22-17.16.00:582][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.01.22-17.16.00:582][  0]LogWindowsTextInputMethodSystem:   - Français (France) - (Keyboard).
+[2023.01.22-17.16.00:582][  0]LogWindowsTextInputMethodSystem:   - Français (France) - Correction de l’entrée tactile (TSF IME).
+[2023.01.22-17.16.00:582][  0]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2023.01.22-17.16.00:595][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.01.22-17.16.00:595][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.01.22-17.16.00:697][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.01.22-17.16.00:699][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.01.22-17.16.00:699][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.01.22-17.16.00:764][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.01.22-17.16.00:764][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.01.22-17.16.00:764][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.01.22-17.16.00:764][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.01.22-17.16.00:764][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.01.22-17.16.00:764][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.01.22-17.16.00:764][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.01.22-17.16.00:764][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.01.22-17.16.00:764][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.01.22-17.16.00:764][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.01.22-17.16.00:765][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.01.22-17.16.00:765][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.01.22-17.16.00:765][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.01.22-17.16.00:765][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.01.22-17.16.00:765][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.01.22-17.16.00:765][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.01.22-17.16.00:806][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.01.22-17.16.00:811][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.01.22-17.16.00:826][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.01.22-17.16.00:843][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.01.22-17.16.00:843][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.01.22-17.16.00:880][  0]LogD3D12RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2023.01.22-17.16.00:880][  0]LogWindows: Attached monitors:
+[2023.01.22-17.16.00:880][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1020), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.01.22-17.16.00:880][  0]LogWindows: Found 1 attached monitors.
+[2023.01.22-17.16.00:880][  0]LogWindows: EnumDisplayDevices:
+[2023.01.22-17.16.00:880][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.01.22-17.16.00:881][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.01.22-17.16.00:881][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.01.22-17.16.00:881][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.01.22-17.16.00:881][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.01.22-17.16.00:882][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.01.22-17.16.00:882][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.01.22-17.16.00:882][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY8'
+[2023.01.22-17.16.00:882][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.01.22-17.16.00:882][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2023.01.22-17.16.00:882][  0]LogD3D12RHI:   Driver Version: 512.78 (internal:30.0.15.1278, unified:512.78)
+[2023.01.22-17.16.00:882][  0]LogD3D12RHI:      Driver Date: 5-5-2022
+[2023.01.22-17.16.00:882][  0]LogRHI: Texture pool is 3310 MB (70% of 4729 MB)
+[2023.01.22-17.16.00:882][  0]LogD3D12RHI: Async texture creation enabled
+[2023.01.22-17.16.00:882][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.01.22-17.16.00:893][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.01.22-17.16.01:981][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce RTX 3060 Laptop GPU
+Installed: 512.78
+Recommended: 516.25
+[2023.01.22-17.16.01:993][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/MyProject2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Intermediate/TurnkeyReport_0.log" -log="C:/Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Intermediate/TurnkeyLog_0.log" -project="C:/Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/MyProject2.uproject"  -platform=all'
+[2023.01.22-17.16.01:993][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/MyProject2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Intermediate/TurnkeyReport_0.log" -log="C:/Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Intermediate/TurnkeyLog_0.log" -project="C:/Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/MyProject2.uproject"  -platform=all" ]
+[2023.01.22-17.16.02:022][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.01.22-17.16.02:034][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.01.22-17.16.02:034][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.01.22-17.16.02:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.01.22-17.16.02:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.01.22-17.16.02:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.01.22-17.16.02:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.01.22-17.16.02:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.01.22-17.16.02:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.01.22-17.16.02:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.01.22-17.16.02:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.01.22-17.16.02:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.01.22-17.16.02:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.01.22-17.16.02:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.01.22-17.16.02:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.01.22-17.16.02:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.01.22-17.16.02:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.01.22-17.16.02:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.01.22-17.16.02:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.01.22-17.16.02:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.01.22-17.16.02:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.01.22-17.16.02:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.01.22-17.16.02:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.01.22-17.16.02:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.01.22-17.16.02:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.01.22-17.16.02:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.01.22-17.16.02:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.01.22-17.16.02:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.01.22-17.16.02:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.01.22-17.16.02:091][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.01.22-17.16.02:091][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.01.22-17.16.02:101][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.01.22-17.16.02:105][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.01.22-17.16.02:105][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.01.22-17.16.02:105][  0]LogTargetPlatformManager:   ADPCM
+[2023.01.22-17.16.02:105][  0]LogTargetPlatformManager:   PCM
+[2023.01.22-17.16.02:109][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.01.22-17.16.02:109][  0]LogTargetPlatformManager:   BINKA
+[2023.01.22-17.16.02:109][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.01.22-17.16.02:109][  0]LogTargetPlatformManager:   OGG
+[2023.01.22-17.16.02:109][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.01.22-17.16.02:109][  0]LogTargetPlatformManager:   OPUS
+[2023.01.22-17.16.02:153][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.01.22-17.16.02:160][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.01.22-17.16.02:160][  0]LogTargetPlatformManager:   SF_METAL
+[2023.01.22-17.16.02:160][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.01.22-17.16.02:160][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.01.22-17.16.02:161][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.01.22-17.16.02:161][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.01.22-17.16.02:161][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.01.22-17.16.02:161][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.01.22-17.16.02:161][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.01.22-17.16.02:161][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.01.22-17.16.02:161][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.01.22-17.16.02:161][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.01.22-17.16.02:161][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.01.22-17.16.02:161][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.01.22-17.16.02:161][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.01.22-17.16.02:161][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.01.22-17.16.02:165][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.01.22-17.16.02:165][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.01.22-17.16.02:165][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.01.22-17.16.02:165][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.01.22-17.16.02:165][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.01.22-17.16.02:165][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.01.22-17.16.02:165][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.01.22-17.16.02:166][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.01.22-17.16.02:166][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.01.22-17.16.02:166][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.22-17.16.02:166][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.01.22-17.16.02:167][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.01.22-17.16.02:170][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.01.22-17.16.02:170][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.01.22-17.16.02:170][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.22-17.16.02:170][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.01.22-17.16.02:188][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.01.22-17.16.02:188][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.01.22-17.16.02:188][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.01.22-17.16.02:202][  0]LogDerivedDataCache: Speed tests for C:/Users/grego/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.01.22-17.16.02:202][  0]LogDerivedDataCache: Display: Performance to C:/Users/grego/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=234.08MBs, RandomWriteSpeed=106.17MBs. Assigned SpeedClass 'Local'
+[2023.01.22-17.16.02:203][  0]LogDerivedDataCache: Using Local data cache path C:/Users/grego/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.01.22-17.16.02:203][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.01.22-17.16.02:203][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.01.22-17.16.02:212][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.01.22-17.16.02:212][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.01.22-17.16.02:212][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Intermediate/Shaders/WorkingDirectory/14156/).
+[2023.01.22-17.16.02:212][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/grego/AppData/Local/Temp/UnrealShaderWorkingDir/2BC731174433D2CEB22FB4A444857160/'.
+[2023.01.22-17.16.02:212][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.01.22-17.16.02:212][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.01.22-17.16.03:477][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.01.22-17.16.03:477][  0]LogSlate: Using FreeType 2.10.0
+[2023.01.22-17.16.03:478][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.01.22-17.16.03:515][  0]LogAssetRegistry: FAssetRegistry took 0.0135 seconds to start up
+[2023.01.22-17.16.03:520][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.01.22-17.16.03:674][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.01.22-17.16.03:675][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.01.22-17.16.03:943][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.01.22-17.16.03:943][  0]LogDeviceProfileManager: Active device profile: [00000683022F0E00][00000682F7CE5000 50] WindowsEditor
+[2023.01.22-17.16.03:943][  0]LogDeviceProfileManager: Profiles: [00000683022F08C0][00000682F7CEA000 50] Windows, [00000683022F0E00][00000682F7CE5000 50] WindowsEditor, [00000683022F2840][00000682F7CE2800 50] WindowsServer, [00000683022F2D80][00000682F7B2A000 50] WindowsClient, [00000683022F2F40][00000682F7CE7800 50] IOS, [00000683022F3100][0000068302290000 50] iPadAir2, [00000683022F5CC0][0000068302297800 50] IPadPro, [00000683022F6040][0000068302295000 50] iPadAir3, [00000683022F5780][000006830229A000 50] iPadAir4, [00000683022F5080][000006830229C800 50] iPadMini4, [00000683022F16C0][00000682E3725000 50] iPadMini5, [00000683022F4EC0][00000683022D0000 50] iPadMini6, [00000683022F7C40][00000683022DA000 50] iPhone6S, [00000683022F7FC0][00000683022D7800 50] iPhone7, [00000683022F8340][00000683022D5000 50] iPodTouch7, [00000683022F4440][00000683022DC800 50] iPhone6SPlus, [00000683022F4600][0000068302292800 50] iPhone7Plus, [00000683022F86C0][00000683022E0000 50] iPhoneSE, [00000683022F3B80][00000683022E5000 50] iPhone8, [00000683022F7700][00000683022E7800 50] iPhone8Plus, [00000683022F1DC0][00000683022EA000 50] iPhoneX, [00000683022F0380][00000683022EC800 50] iPhoneXS, [00000683022F7540][00000683022D2800 50] iPhoneXSMax, [00000683022F8C00][00000683022A0000 50] iPhoneXR, [00000683022F7380][00000683022A5000 50] iPhone11, [00000683022F8A40][00000683022A7800 50] iPhone11Pro, [00000683022F7A80][00000683022AA000 50] iPhone11ProMax, [00000683022F2140][00000683022AC800 50] iPhoneSE2, [00000683022F2300][00000683022E2800 50] iPhone12Mini, [00000683022F1C00][00000683022B0000 50] iPhone12, [00000683022F0C40][00000683022B5000 50] iPhone12Pro, [00000683022F2BC0][00000683022B7800 50] iPhone12ProMax, [00000683022F8180][00000683022BA000 50] iPhone13Mini, [00000683022F3640][00000683022BC800 50] iPhone13, [00000683022F71C0][00000683022A2800 50] iPhone13Pro, [00000683022F8880][0000068302300000 50] iPhone13ProMax, [00000683022F1340][0000068302305000 50] iPadPro105, [00000683022F2680][0000068302307800 50] iPadPro129, [00000683022F3800][000006830230A000 50] iPadPro97, [00000683022F6E40][000006830230C800 50] iPadPro2_129, [00000683022F8500][00000683022B2800 50] iPad5, [00000683022F01C0][0000068302310000 50] iPad6, [00000683022F1F80][0000068302315000 50] iPad7, [00000683022F4280][0000068302317800 50] iPad8, [00000683022F0540][000006830231A000 50] iPad9, [00000683022F5940][000006830231C800 50] iPadPro11, [00000683022F4980][0000068302302800 50] iPadPro2_11, [00000683022F24C0][0000068302320000 50] iPadPro3_11, [00000683022F3D40][0000068302325000 50] iPadPro3_129, [00000683022F5400][0000068302327800 50] iPadPro4_129, [00000683022F55C0][000006830232A000 50] iPadPro5_129, [00000683022F7E00][000006830232C800 50] AppleTV, [00000683022F6740][0000068302312800 50] AppleTV4K, [00000683022F6900][0000068302330000 50] TVOS, [00000683022FA800][0000068302337800 50] Mac, [00000683022FAB80][0000068302335000 50] MacEditor, [00000683022FA100][000006830233A000 50] MacClient, [00000683022FA480][000006830233C800 50] MacServer, [00000683022F7000][0000068302360000 50] Linux, [00000683022F78C0][0000068302362800 50] LinuxEditor, [00000683022F9BC0][0000068302367800 50] LinuxArm64Editor, [00000683022F32C0][000006830236A000 50] LinuxArm64, [00000683022F94C0][000006830236C800 50] LinuxClient, [00000683022F1180][0000068302322800 50] LinuxArm64Client, [00000683022F8F80][0000068302365000 50] LinuxServer, [00000683022F5E80][0000068302350000 50] LinuxArm64Server, [00000683022F9D80][0000068302355000 50] Android, [00000683022FA2C0][0000068302357800 50] Android_Preview_OpenGL, [00000683022F4D00][000006830235A000 50] Android_Preview_Vulkan, [00000683022F63C0][000006830235C800 50] Android_Low, [00000683022F6C80][0000068302332800 50] Android_Mid, [00000683022F2A00][0000068302370000 50] Android_High, [00000683022F40C0][0000068302375000 50] Android_Default, [00000683022F5B00][0000068302377800 50] Android_Adreno4xx, [00000683022F0000][000006830237A000 50] Android_Adreno5xx_Low, [00000683022F1880][000006830237C800 50] Android_Adreno5xx, [00000683022F0700][0000068302352800 50] Android_Adreno6xx, [00000683022F8DC0][0000068302380000 50] Android_Adreno6xx_Vulkan, [00000683022FAD40][0000068302385000 50] Android_Adreno7xx, [00000683022FAF00][0000068302387800 50] Android_Adreno7xx_Vulkan, [00000683022F0FC0][000006830238A000 50] Android_Mali_T6xx, [00000683022FB280][000006830238C800 50] Android_Mali_T7xx, [00000683022F4B40][0000068302372800 50] Android_Mali_T8xx, [00000683022FB600][0000068302390000 50] Android_Mali_G71, [00000683022FB0C0][0000068302395000 50] Android_Mali_G72, [00000683022FB980][0000068302397800 50] Android_Mali_G72_Vulkan, [00000683022F6200][000006830239A000 50] Android_Mali_G76, [00000683022FBD00][000006830239C800 50] Android_Mali_G76_Vulkan, [00000683022F5240][0000068302382800 50] Android_Mali_G77, [00000683022FC080][00000683023A0000 50] Android_Mali_G77_Vulkan, [00000683022FBEC0][00000683023A5000 50] Android_Mali_G78, [00000683022FC400][00000683023A7800 50] Android_Mali_G78_Vulkan, [00000683022F9300][00000683023AA000 50] Android_Mali_G710, [00000683022FC780][00000683023AC800 50] Android_Mali_G710_Vulkan, [00000683022F3480][0000068302392800 50] Android_Xclipse_920, [00000683022FCB00][00000683023B0000 50] Android_Xclipse_920_Vulkan, [00000683022FCCC0][00000683023B5000 50] Android_Vulkan_SM5, [00000683022FD040][00000683023B7800 50] Android_PowerVR_G6xxx, [00000683022F1500][00000683023BA000 50] Android_PowerVR_GT7xxx, [00000683022FD3C0][00000683023BC800 50] Android_PowerVR_GE8xxx, [00000683022FCE80][00000683023A2800 50] Android_PowerVR_GM9xxx, [00000683022FD740][00000683023C0000 50] Android_PowerVR_GM9xxx_Vulkan, [00000683022F6580][00000683023C5000 50] Android_TegraK1, [00000683022FDAC0][00000683023C7800 50] Android_Unknown_Vulkan, [00000683022FDC80][00000683023CA000 50] Oculus_Quest, [00000683022FDE40][00000683023CC800 50] Oculus_Quest2, [00000683022FA640][00000683023B2800 50] HoloLens, 
+[2023.01.22-17.16.03:943][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.01.22-17.16.03:946][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.01.22-17.16.03:946][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.01.22-17.16.03:946][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.01.22-17.16.03:946][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.01.22-17.16.03:946][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="Platform_ValidHostPrerequisites")
+[2023.01.22-17.16.03:965][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.01.22-17.16.04:135][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.01.22-17.16.04:135][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.01.22-17.16.04:135][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.01.22-17.16.04:135][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.01.22-17.16.04:135][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.01.22-17.16.04:148][  0]LogNetVersion: MyProject2 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2744017083)
+[2023.01.22-17.16.04:276][  0]LogSlate: Border
+[2023.01.22-17.16.04:276][  0]LogSlate: BreadcrumbButton
+[2023.01.22-17.16.04:276][  0]LogSlate: Default
+[2023.01.22-17.16.04:276][  0]LogSlate: Icons.Save
+[2023.01.22-17.16.04:276][  0]LogSlate: Icons.Toolbar.Settings
+[2023.01.22-17.16.04:276][  0]LogSlate: ListView
+[2023.01.22-17.16.04:276][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.01.22-17.16.04:276][  0]LogSlate: SoftwareCursor_Grab
+[2023.01.22-17.16.04:276][  0]LogSlate: TableView.DarkRow
+[2023.01.22-17.16.04:276][  0]LogSlate: TableView.Row
+[2023.01.22-17.16.04:276][  0]LogSlate: TreeView
+[2023.01.22-17.16.04:435][  0]SourceControl: Source control is disabled
+[2023.01.22-17.16.04:458][  0]SourceControl: Source control is disabled
+[2023.01.22-17.16.04:458][  0]SourceControl: Source control is disabled
+[2023.01.22-17.16.04:558][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2023.01.22-17.16.04:558][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2023.01.22-17.16.04:558][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.01.22-17.16.04:898][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B7D8400C4883BD062E936995FF7AD43C | Instance: 69E9702E45EAED74A56E998E4A05FE84 (GREGORVICTUS-14156).
+[2023.01.22-17.16.04:938][  0]LogPython: Using Python 3.9.7
+[2023.01.22-17.16.05:548][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.01.22-17.16.05:556][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.01.22-17.16.05:839][  0]SourceControl: Source control is disabled
+[2023.01.22-17.16.05:850][  0]LogUProjectInfo: Found projects:
+[2023.01.22-17.16.05:851][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.22-17.16.05:851][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.22-17.16.05:851][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.22-17.16.05:855][  0]SourceControl: Source control is disabled
+[2023.01.22-17.16.05:858][  0]SourceControl: Source control is disabled
+[2023.01.22-17.16.05:981][  0]LogOpenImageDenoise: OIDN starting up
+[2023.01.22-17.16.06:009][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.01.22-17.16.06:023][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.22-17.16.06:023][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.01.22-17.16.06:131][  0]LogCollectionManager: Loaded 0 collections in 0.001577 seconds
+[2023.01.22-17.16.06:219][  0]LogFileCache: Scanning file cache for directory 'C:/Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Collections/' took 0.00s
+[2023.01.22-17.16.06:219][  0]LogFileCache: Scanning file cache for directory 'C:/Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Content/Developers/grego/Collections/' took 0.00s
+[2023.01.22-17.16.06:219][  0]LogFileCache: Scanning file cache for directory 'C:/Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Content/Collections/' took 0.00s
+[2023.01.22-17.16.06:476][  0]LogEngine: Initializing Engine...
+[2023.01.22-17.16.06:487][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.01.22-17.16.06:488][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.01.22-17.16.06:707][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.01.22-17.16.06:707][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.22-17.16.06:717][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-17.16.06:743][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.01.22-17.16.06:744][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.01.22-17.16.06:763][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.01.22-17.16.06:763][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.01.22-17.16.06:763][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.01.22-17.16.06:764][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.01.22-17.16.06:764][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.01.22-17.16.06:764][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.22-17.16.06:764][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.22-17.16.06:764][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.22-17.16.06:764][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.22-17.16.06:764][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.22-17.16.06:764][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.22-17.16.06:764][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.22-17.16.06:764][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.22-17.16.06:764][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.22-17.16.06:764][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.22-17.16.06:764][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.22-17.16.06:771][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.22-17.16.06:795][  0]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (G300)
+[2023.01.22-17.16.06:796][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.22-17.16.06:797][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.22-17.16.06:797][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.22-17.16.06:798][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.01.22-17.16.06:798][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.01.22-17.16.06:799][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.01.22-17.16.06:799][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.01.22-17.16.06:799][  0]LogInit: FAudioDevice initialized.
+[2023.01.22-17.16.06:799][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.01.22-17.16.06:799][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.01.22-17.16.06:799][  0]LogInit: Texture streaming: Enabled
+[2023.01.22-17.16.06:830][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.01.22-17.16.06:840][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.01.22-17.16.06:841][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={29E47DC0-421D-823B-57FD-0F9871BCDCA0}
+[2023.01.22-17.16.06:861][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.01.22-17.16.06:869][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.01.22-17.16.06:869][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.01.22-17.16.08:038][  0]LogLiveCoding: Display: First instance in process group "UE_MyProject2_0xd33c5b25", spawning console
+[2023.01.22-17.16.08:038][  0]LogLiveCoding: Display: Waiting for server
+[2023.01.22-17.16.08:038][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.01.22-17.16.08:073][  0]LogInit: Transaction tracking system initialized
+[2023.01.22-17.16.08:142][  0]BlueprintLog: New page: Editor Load
+[2023.01.22-17.16.08:326][  0]LocalizationService: Localization service is disabled
+[2023.01.22-17.16.08:375][  0]TimingProfiler: Initialize
+[2023.01.22-17.16.08:376][  0]TimingProfiler: OnSessionChanged
+[2023.01.22-17.16.08:376][  0]LoadingProfiler: Initialize
+[2023.01.22-17.16.08:376][  0]LoadingProfiler: OnSessionChanged
+[2023.01.22-17.16.08:376][  0]NetworkingProfiler: Initialize
+[2023.01.22-17.16.08:376][  0]NetworkingProfiler: OnSessionChanged
+[2023.01.22-17.16.08:376][  0]MemoryProfiler: Initialize
+[2023.01.22-17.16.08:376][  0]MemoryProfiler: OnSessionChanged
+[2023.01.22-17.16.08:565][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.22-17.16.08:565][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.22-17.16.08:566][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2023.01.22-17.16.09:034][  0]LogFileCache: Scanning file cache for directory 'C:/Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Content/' took 0.02s
+[2023.01.22-17.16.09:034][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.01.22-17.16.09:114][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.01.22-17.16.09:116][  0]SourceControl: Source control is disabled
+[2023.01.22-17.16.09:116][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.085
+[2023.01.22-17.16.09:116][  0]Cmd: MAP LOAD FILE="../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Content/G2S1_project/Levels/MenuDépart.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.22-17.16.09:117][  0]LightingResults: New page: Lighting Build
+[2023.01.22-17.16.09:123][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-17.16.09:123][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-17.16.09:124][  0]MapCheck: New page: Map Check
+[2023.01.22-17.16.09:124][  0]LightingResults: New page: Lighting Build
+[2023.01.22-17.16.09:129][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.22-17.16.09:132][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.01.22-17.16.09:237][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MenuDépart'.
+[2023.01.22-17.16.09:237][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.22-17.16.09:237][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-17.16.09:238][  0]LogAIModule: Creating AISystem for world MenuDépart
+[2023.01.22-17.16.09:240][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.22-17.16.09:249][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.01.22-17.16.09:250][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.22-17.16.09:250][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,229ms to complete.
+[2023.01.22-17.16.09:250][  0]LogFileHelpers: Loading map 'MenuDépart' took 0.133
+[2023.01.22-17.16.09:262][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.230
+[2023.01.22-17.16.09:262][  0]LogShaderCompilers: Display: ================================================
+[2023.01.22-17.16.09:262][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.22-17.16.09:262][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.01.22-17.16.09:262][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.01.22-17.16.09:262][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.01.22-17.16.09:262][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.22-17.16.09:262][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.01.22-17.16.09:262][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.01.22-17.16.09:262][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.01.22-17.16.09:262][  0]LogShaderCompilers: Display: ================================================
+[2023.01.22-17.16.09:353][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.22-17.16.09:358][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.22-17.16.09:363][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.22-17.16.09:367][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.22-17.16.09:405][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.01.22-17.16.09:405][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-17.16.09:406][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.01.22-17.16.09:406][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-17.16.09:407][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.01.22-17.16.09:407][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-17.16.09:407][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.01.22-17.16.09:407][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-17.16.09:408][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.01.22-17.16.09:408][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-17.16.09:409][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.01.22-17.16.09:409][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-17.16.09:409][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.01.22-17.16.09:409][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-17.16.09:410][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.01.22-17.16.09:410][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-17.16.09:410][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.01.22-17.16.09:410][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-17.16.09:410][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.01.22-17.16.09:410][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.01.22-17.16.09:410][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.01.22-17.16.09:554][  0]LogStall: Startup...
+[2023.01.22-17.16.09:556][  0]LogStall: Startup complete.
+[2023.01.22-17.16.09:596][  0]LogLoad: (Engine Initialization) Total time: 10.56 seconds
+[2023.01.22-17.16.09:596][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.01.22-17.16.09:637][  0]LogAssetRegistry: Asset discovery search completed in 6.1236 seconds
+[2023.01.22-17.16.09:646][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.01.22-17.16.09:675][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.01.22-17.16.09:697][  0]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.01.22-17.16.09:700][  0]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.01.22-17.16.09:701][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.01.22-17.16.09:702][  0]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.01.22-17.16.09:730][  0]LogViewport: Scene viewport resized to 1432x808, mode Windowed.
+[2023.01.22-17.16.14:089][202]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.22-17.16.15:031][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.01.22-17.16.15:032][256]Cmd: MAP LOAD FILE="../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Content/G2S1_project/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.01.22-17.16.15:032][256]LightingResults: New page: Lighting Build
+[2023.01.22-17.16.15:032][256]LoadErrors: New page: Loading map: Level1.umap
+[2023.01.22-17.16.15:054][256]LogWorld: UWorld::CleanupWorld for MenuDépart, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-17.16.15:054][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-17.16.15:054][256]MapCheck: New page: Map Check
+[2023.01.22-17.16.15:054][256]LightingResults: New page: Lighting Build
+[2023.01.22-17.16.15:058][256]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.22-17.16.15:060][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.01.22-17.16.16:542][256]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.01.22-17.16.16:542][256]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.01.22-17.16.16:542][256]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-17.16.16:543][256]LogAIModule: Creating AISystem for world Level1
+[2023.01.22-17.16.16:561][256]LogNiagara: Compiling System NiagaraSystem /Game/G2S1_project/Niagara/Obscurité.Obscurité took 0.108776 sec, no shader worker used.
+[2023.01.22-17.16.16:607][256]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.01.22-17.16.16:621][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.01.22-17.16.16:626][256]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.01.22-17.16.16:627][256]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,118ms to complete.
+[2023.01.22-17.16.16:627][256]LogFileHelpers: Loading map 'Level1' took 1.594
+[2023.01.22-17.16.16:627][256]LogSlate: Window 'Open Level' being destroyed
+[2023.01.22-17.16.17:995][306]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.01.22-17.16.19:941][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.01.22-17.16.22:073][422]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.22-17.16.22:082][422]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/G2S1_project/animation/Walking_ArthurHuman_Skeleton.Walking_ArthurHuman_Skeleton
+	Asset Type: Skeleton
+[2023.01.22-17.16.22:225][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.01.22-17.16.22:231][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.01.22-17.16.22:239][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.01.22-17.16.23:796][512]LogSlate: Took 0.001452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.01.22-17.16.24:311][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.01.22-17.16.25:141][541]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.22-17.16.25:149][541]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/G2S1_project/animation/Walking_ArthurHuman_PhysicsAsset.Walking_ArthurHuman_PhysicsAsset
+	Asset Type: PhysicsAsset
+[2023.01.22-17.16.25:290][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.01.22-17.16.25:297][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.01.22-17.16.25:305][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.22-17.16.26:837][630]LogLinker: Warning: [AssetLog] C:\Users\grego\OneDrive\Documents\GitHub\another-world-G2S1\Content\G2S1_project\animation\WalkArthur.uasset: Failed to load '/Game/G2S1_project/animation/Walking_ArthurHuman_Skeleton': Can't find file.
+[2023.01.22-17.16.26:837][630]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/G2S1_project/animation/Walking_ArthurHuman_Skeleton'
+[2023.01.22-17.16.26:841][630]LogBlueprint: Error: [AssetLog] C:\Users\grego\OneDrive\Documents\GitHub\another-world-G2S1\Content\G2S1_project\animation\WalkArthur.uasset: [Compiler] WalkArthur  - The skeleton asset for this animation Blueprint is missing, so it cannot be compiled!
+[2023.01.22-17.16.27:678][676]LogLinker: Warning: [AssetLog] C:\Users\grego\OneDrive\Documents\GitHub\another-world-G2S1\Content\G2S1_project\animation\Walking_ArthurHuman.uasset: Failed to load '/Game/G2S1_project/animation/Walking_ArthurHuman_PhysicsAsset': Can't find file.
+[2023.01.22-17.16.27:678][676]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/G2S1_project/animation/Walking_ArthurHuman_PhysicsAsset'
+[2023.01.22-17.16.27:837][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.22-17.16.28:947][676]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.22-17.16.29:145][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.22-17.16.29:152][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.22-17.16.29:160][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.01.22-17.16.30:211][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.01.22-17.16.31:019][737]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.22-17.16.31:031][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.01.22-17.16.31:038][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.22-17.16.31:045][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.01.22-17.16.31:824][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.01.22-17.16.32:586][782]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.22-17.16.32:598][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.01.22-17.16.32:605][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.01.22-17.16.32:613][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.01.22-17.16.36:433][999]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.22-17.16.36:482][999]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.22-17.16.36:505][  1]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.22-17.16.41:734][315]LogContentBrowser: Attempting asset rename: NewFolder -> CatyHumaine
+[2023.01.22-17.16.41:735][315]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.22-17.16.44:394][465]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.22-17.16.44:406][465]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.22-17.16.44:412][466]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.22-17.16.48:192][693]LogContentBrowser: Attempting asset rename: NewFolder -> CatyCat
+[2023.01.22-17.16.48:192][693]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.22-17.17.20:515][ 29]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\grego\Downloads\Crouch_Walk_Forward_caty_cat.fbx)
+[2023.01.22-17.17.20:653][ 29]LogFbx: Loading FBX Scene from C:\Users\grego\Downloads\Crouch_Walk_Forward_caty_cat.fbx
+[2023.01.22-17.17.20:821][ 29]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.22-17.17.23:643][ 29]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.01.22-17.17.23:655][ 29]LogFbx: Valid bind pose for Pose (BindPose) - cathy
+[2023.01.22-17.17.23:665][ 29]LogMaterial: Display: Material /Game/G2S1_project/animation/CatyCat/Lunettes.Lunettes needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.17.23:668][ 29]LogMaterial: Display: Missing cached shadermap for Lunettes in PCD3D_SM5, Default, SM5 (DDC key hash: 5356AF99C7666FEAC3A53E9B7974EA770D8E9187), compiling. 
+[2023.01.22-17.17.23:763][ 29]LogTexture: Display: Building textures: /Game/G2S1_project/animation/CatyCat/Lunettes_Base_color.Lunettes_Base_color (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.17.23:763][ 29]LogMaterial: Display: Missing cached shadermap for Lunettes in PCD3D_SM5, Default, SM5 (DDC key hash: 2AFA51ACD7E2DBBE9A7E43D1326083BB6C1A2E70), compiling. 
+[2023.01.22-17.17.23:770][ 29]LogMaterial: Display: Material /Game/G2S1_project/animation/CatyCat/Material__38.Material__38 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.17.23:776][ 29]LogMaterial: Display: Missing cached shadermap for Material__38 in PCD3D_SM5, Default, SM5 (DDC key hash: ABC1333DA9C458CBDC654BD6A59D42F06A9E4D35), compiling. 
+[2023.01.22-17.17.23:875][ 29]LogTexture: Display: Building textures: /Game/G2S1_project/animation/CatyCat/Material__38_Base_color.Material__38_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.17.23:880][ 29]LogMaterial: Display: Missing cached shadermap for Material__38 in PCD3D_SM5, Default, SM5 (DDC key hash: E3CCBDA0B505C6CA1A74E9EAE1C377E1BFFA0FA1), compiling. 
+[2023.01.22-17.17.23:885][ 29]LogMaterial: Display: Material /Game/G2S1_project/animation/CatyCat/Material__39.Material__39 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.17.23:891][ 29]LogMaterial: Display: Missing cached shadermap for Material__39 in PCD3D_SM5, Default, SM5 (DDC key hash: 9633CCC65C31F492B759A81D96CDB681DE8576C1), compiling. 
+[2023.01.22-17.17.24:009][ 29]LogTexture: Display: Building textures: /Game/G2S1_project/animation/CatyCat/Material__39_Base_color.Material__39_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.17.24:014][ 29]LogMaterial: Display: Missing cached shadermap for Material__39 in PCD3D_SM5, Default, SM5 (DDC key hash: DE10F00E0623BE2F3C1B62918CB9A50D816AE5FD), compiling. 
+[2023.01.22-17.17.24:019][ 29]LogMaterial: Display: Material /Game/G2S1_project/animation/CatyCat/Material__40.Material__40 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.17.24:025][ 29]LogMaterial: Display: Missing cached shadermap for Material__40 in PCD3D_SM5, Default, SM5 (DDC key hash: 156E7C68EB336D1C488ED4BD31BD8B79C824B615), compiling. 
+[2023.01.22-17.17.24:149][ 29]LogTexture: Display: Building textures: /Game/G2S1_project/animation/CatyCat/Material__40_Base_color.Material__40_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.17.24:154][ 29]LogMaterial: Display: Missing cached shadermap for Material__40 in PCD3D_SM5, Default, SM5 (DDC key hash: 661EF8627FF9639AC62D28E72C63D8CDE7480C2B), compiling. 
+[2023.01.22-17.17.24:159][ 29]LogMaterial: Display: Material /Game/G2S1_project/animation/CatyCat/Material__41.Material__41 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.17.24:166][ 29]LogMaterial: Display: Missing cached shadermap for Material__41 in PCD3D_SM5, Default, SM5 (DDC key hash: 4BE9AA96249AABBE05D6141E02365520F94C07D9), compiling. 
+[2023.01.22-17.17.24:285][ 29]LogTexture: Display: Building textures: /Game/G2S1_project/animation/CatyCat/Material__41_Base_color.Material__41_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.17.24:291][ 29]LogMaterial: Display: Missing cached shadermap for Material__41 in PCD3D_SM5, Default, SM5 (DDC key hash: 7C9E704DF7C570AF320A9050CB9E909C8DFBD674), compiling. 
+[2023.01.22-17.17.24:296][ 29]LogMaterial: Display: Material /Game/G2S1_project/animation/CatyCat/Material__42.Material__42 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.17.24:303][ 29]LogMaterial: Display: Missing cached shadermap for Material__42 in PCD3D_SM5, Default, SM5 (DDC key hash: F87FBB48ED9DD975CAB8119D3E74F656C3A8B807), compiling. 
+[2023.01.22-17.17.24:420][ 29]LogTexture: Display: Building textures: /Game/G2S1_project/animation/CatyCat/Material__42_Base_color.Material__42_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.17.24:427][ 29]LogMaterial: Display: Missing cached shadermap for Material__42 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A716D9C4187F9B382F453B65DA79B76D2588717), compiling. 
+[2023.01.22-17.17.24:432][ 29]LogFbx: Triangulating skeletal mesh cathy
+[2023.01.22-17.17.28:569][ 29]LogFbx: Warning: Bones digested - 33  Depth of hierarchy - 12
+[2023.01.22-17.17.32:158][ 29]LogSkeletalMesh: Section 0: Material=0, 696 triangles
+[2023.01.22-17.17.32:158][ 29]LogSkeletalMesh: Section 1: Material=1, 46508 triangles
+[2023.01.22-17.17.32:158][ 29]LogSkeletalMesh: Section 2: Material=2, 100182 triangles
+[2023.01.22-17.17.32:158][ 29]LogSkeletalMesh: Section 3: Material=3, 20910 triangles
+[2023.01.22-17.17.32:158][ 29]LogSkeletalMesh: Section 4: Material=4, 8724 triangles
+[2023.01.22-17.17.32:158][ 29]LogSkeletalMesh: Section 5: Material=5, 23734 triangles
+[2023.01.22-17.17.32:313][ 29]LogSkeletalMesh: Building Skeletal Mesh Crouch_Walk_Forward_caty_cat...
+[2023.01.22-17.17.32:313][ 29]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Crouch_Walk_Forward_caty_cat) ...
+[2023.01.22-17.17.35:531][ 29]LogSkeletalMesh: Built Skeletal Mesh [3.20s] /Game/G2S1_project/animation/CatyCat/Crouch_Walk_Forward_caty_cat.Crouch_Walk_Forward_caty_cat
+[2023.01.22-17.17.35:531][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-17.17.35:542][ 29]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-17.17.35:543][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-17.17.35:553][ 29]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.01.22-17.17.35:620][ 29]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Crouch_Walk_Forward_caty_cat) ...
+[2023.01.22-17.17.35:791][ 29]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\grego\Downloads\Walk_caty_cat.fbx)
+[2023.01.22-17.17.35:929][ 29]LogFbx: Loading FBX Scene from C:\Users\grego\Downloads\Walk_caty_cat.fbx
+[2023.01.22-17.17.36:081][ 29]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.22-17.17.36:084][ 29]LogFbx: Valid bind pose for Pose (BindPose) - cathy
+[2023.01.22-17.17.36:094][ 29]LogFbx: Triangulating skeletal mesh cathy
+[2023.01.22-17.17.38:737][ 29]LogFbx: Warning: Bones digested - 33  Depth of hierarchy - 12
+[2023.01.22-17.17.42:450][ 29]LogSkeletalMesh: Section 0: Material=0, 696 triangles
+[2023.01.22-17.17.42:450][ 29]LogSkeletalMesh: Section 1: Material=1, 46508 triangles
+[2023.01.22-17.17.42:450][ 29]LogSkeletalMesh: Section 2: Material=2, 100182 triangles
+[2023.01.22-17.17.42:450][ 29]LogSkeletalMesh: Section 3: Material=3, 20910 triangles
+[2023.01.22-17.17.42:450][ 29]LogSkeletalMesh: Section 4: Material=4, 8724 triangles
+[2023.01.22-17.17.42:450][ 29]LogSkeletalMesh: Section 5: Material=5, 23734 triangles
+[2023.01.22-17.17.42:596][ 29]LogSkeletalMesh: Building Skeletal Mesh Walk_caty_cat...
+[2023.01.22-17.17.42:636][ 29]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Walk_caty_cat) ...
+[2023.01.22-17.17.46:100][ 29]LogSkeletalMesh: Built Skeletal Mesh [3.47s] /Game/G2S1_project/animation/CatyCat/Walk_caty_cat.Walk_caty_cat
+[2023.01.22-17.17.46:100][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-17.17.46:110][ 29]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-17.17.46:110][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-17.17.46:120][ 29]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.01.22-17.17.46:139][ 29]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Walk_caty_cat) ...
+[2023.01.22-17.17.46:358][ 29]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\grego\Downloads\Idle_caty_cat.fbx)
+[2023.01.22-17.17.46:499][ 29]LogFbx: Loading FBX Scene from C:\Users\grego\Downloads\Idle_caty_cat.fbx
+[2023.01.22-17.17.46:669][ 29]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.22-17.17.46:672][ 29]LogFbx: Valid bind pose for Pose (BindPose) - cathy
+[2023.01.22-17.17.46:682][ 29]LogFbx: Triangulating skeletal mesh cathy
+[2023.01.22-17.17.49:326][ 29]LogFbx: Warning: Bones digested - 33  Depth of hierarchy - 12
+[2023.01.22-17.17.52:966][ 29]LogSkeletalMesh: Section 0: Material=0, 696 triangles
+[2023.01.22-17.17.52:966][ 29]LogSkeletalMesh: Section 1: Material=1, 46508 triangles
+[2023.01.22-17.17.52:966][ 29]LogSkeletalMesh: Section 2: Material=2, 100182 triangles
+[2023.01.22-17.17.52:966][ 29]LogSkeletalMesh: Section 3: Material=3, 20910 triangles
+[2023.01.22-17.17.52:966][ 29]LogSkeletalMesh: Section 4: Material=4, 8724 triangles
+[2023.01.22-17.17.52:966][ 29]LogSkeletalMesh: Section 5: Material=5, 23734 triangles
+[2023.01.22-17.17.53:123][ 29]LogSkeletalMesh: Building Skeletal Mesh Idle_caty_cat...
+[2023.01.22-17.17.53:123][ 29]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Idle_caty_cat) ...
+[2023.01.22-17.17.56:456][ 29]LogSkeletalMesh: Built Skeletal Mesh [3.32s] /Game/G2S1_project/animation/CatyCat/Idle_caty_cat.Idle_caty_cat
+[2023.01.22-17.17.56:464][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-17.17.56:474][ 29]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-17.17.56:474][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-17.17.56:485][ 29]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.01.22-17.17.56:503][ 29]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Idle_caty_cat) ...
+[2023.01.22-17.17.56:719][ 29]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\grego\Downloads\Talking_caty_cat.fbx)
+[2023.01.22-17.17.56:864][ 29]LogFbx: Loading FBX Scene from C:\Users\grego\Downloads\Talking_caty_cat.fbx
+[2023.01.22-17.17.57:028][ 29]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.22-17.17.57:031][ 29]LogFbx: Valid bind pose for Pose (BindPose) - cathy
+[2023.01.22-17.17.57:040][ 29]LogFbx: Triangulating skeletal mesh cathy
+[2023.01.22-17.17.59:703][ 29]LogFbx: Warning: Bones digested - 33  Depth of hierarchy - 12
+[2023.01.22-17.18.02:738][ 29]LogDerivedDataCache: C:/Users/grego/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.378 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.22-17.18.03:398][ 29]LogSkeletalMesh: Section 0: Material=0, 696 triangles
+[2023.01.22-17.18.03:398][ 29]LogSkeletalMesh: Section 1: Material=1, 46508 triangles
+[2023.01.22-17.18.03:398][ 29]LogSkeletalMesh: Section 2: Material=2, 100182 triangles
+[2023.01.22-17.18.03:398][ 29]LogSkeletalMesh: Section 3: Material=3, 20910 triangles
+[2023.01.22-17.18.03:398][ 29]LogSkeletalMesh: Section 4: Material=4, 8724 triangles
+[2023.01.22-17.18.03:398][ 29]LogSkeletalMesh: Section 5: Material=5, 23734 triangles
+[2023.01.22-17.18.03:564][ 29]LogSkeletalMesh: Building Skeletal Mesh Talking_caty_cat...
+[2023.01.22-17.18.03:564][ 29]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Talking_caty_cat) ...
+[2023.01.22-17.18.06:881][ 29]LogSkeletalMesh: Built Skeletal Mesh [3.30s] /Game/G2S1_project/animation/CatyCat/Talking_caty_cat.Talking_caty_cat
+[2023.01.22-17.18.06:882][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-17.18.06:892][ 29]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-17.18.06:892][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-17.18.06:905][ 29]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.01.22-17.18.06:922][ 29]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Talking_caty_cat) ...
+[2023.01.22-17.18.07:136][ 29]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\grego\Downloads\Opening_caty_cat.fbx)
+[2023.01.22-17.18.07:283][ 29]LogFbx: Loading FBX Scene from C:\Users\grego\Downloads\Opening_caty_cat.fbx
+[2023.01.22-17.18.07:446][ 29]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.22-17.18.07:449][ 29]LogFbx: Valid bind pose for Pose (BindPose) - cathy
+[2023.01.22-17.18.07:458][ 29]LogFbx: Triangulating skeletal mesh cathy
+[2023.01.22-17.18.10:077][ 29]LogFbx: Warning: Bones digested - 33  Depth of hierarchy - 12
+[2023.01.22-17.18.13:658][ 29]LogSkeletalMesh: Section 0: Material=0, 696 triangles
+[2023.01.22-17.18.13:658][ 29]LogSkeletalMesh: Section 1: Material=1, 46508 triangles
+[2023.01.22-17.18.13:658][ 29]LogSkeletalMesh: Section 2: Material=2, 100182 triangles
+[2023.01.22-17.18.13:658][ 29]LogSkeletalMesh: Section 3: Material=3, 20910 triangles
+[2023.01.22-17.18.13:658][ 29]LogSkeletalMesh: Section 4: Material=4, 8724 triangles
+[2023.01.22-17.18.13:658][ 29]LogSkeletalMesh: Section 5: Material=5, 23734 triangles
+[2023.01.22-17.18.13:819][ 29]LogSkeletalMesh: Building Skeletal Mesh Opening_caty_cat...
+[2023.01.22-17.18.13:819][ 29]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Opening_caty_cat) ...
+[2023.01.22-17.18.17:155][ 29]LogSkeletalMesh: Built Skeletal Mesh [3.36s] /Game/G2S1_project/animation/CatyCat/Opening_caty_cat.Opening_caty_cat
+[2023.01.22-17.18.17:194][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-17.18.17:205][ 29]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-17.18.17:205][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-17.18.17:216][ 29]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.01.22-17.18.17:234][ 29]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Opening_caty_cat) ...
+[2023.01.22-17.19.42:612][639]LogSlate: Window 'Message Log' being destroyed
+[2023.01.22-17.19.42:618][639]LogSlate: Window 'Message Log' being destroyed
+[2023.01.22-17.21.55:217][611]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/G2S1_project/animation/CatyCat/Crouch_Walk_Forward_caty_cat.Crouch_Walk_Forward_caty_cat
+[2023.01.22-17.21.55:232][611]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-17.21.55:275][611]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.22-17.21.55:568][611]LogViewport: Scene viewport resized to 1138x803, mode Windowed.
+[2023.01.22-17.22.02:283][957]LogSlate: Window 'Crouch_Walk_Forward_caty_cat' being destroyed
+[2023.01.22-17.22.02:289][957]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-17.22.02:289][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-17.23.57:344][610]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.22-17.23.57:350][610]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.22-17.23.57:364][611]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.22-17.23.59:908][761]LogContentBrowser: Attempting asset rename: NewFolder -> anim+
+[2023.01.22-17.23.59:908][761]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.22-17.24.06:876][  5]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\grego\Downloads\Idle_caty_cat.fbx)
+[2023.01.22-17.24.07:010][  5]LogFbx: Loading FBX Scene from C:\Users\grego\Downloads\Idle_caty_cat.fbx
+[2023.01.22-17.24.07:178][  5]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.22-17.24.11:464][  5]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.01.22-17.24.23:383][  5]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.01.22-17.24.23:396][  5]LogFbx: Valid bind pose for Pose (BindPose) - cathy
+[2023.01.22-17.24.23:405][  5]LogMaterial: Display: Material /Game/G2S1_project/animation/CatyCat/anim+/Lunettes.Lunettes needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.24.23:407][  5]LogMaterial: Display: Missing cached shadermap for Lunettes in PCD3D_SM5, Default, SM5 (DDC key hash: D7534F61E5F65ECE36774C2607506DAE58AC2901), compiling. 
+[2023.01.22-17.24.23:455][  5]LogTexture: Display: Building textures: /Game/G2S1_project/animation/CatyCat/anim+/Lunettes_Base_color.Lunettes_Base_color (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.24.23:455][  5]LogMaterial: Display: Missing cached shadermap for Lunettes in PCD3D_SM5, Default, SM5 (DDC key hash: 3119EAACB38479B23BEE62597121ECBE098DBFFA), compiling. 
+[2023.01.22-17.24.23:461][  5]LogMaterial: Display: Material /Game/G2S1_project/animation/CatyCat/anim+/Material__38.Material__38 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.24.23:467][  5]LogMaterial: Display: Missing cached shadermap for Material__38 in PCD3D_SM5, Default, SM5 (DDC key hash: 3195E769A5FAD127464941802A5675393490845F), compiling. 
+[2023.01.22-17.24.23:565][  5]LogTexture: Display: Building textures: /Game/G2S1_project/animation/CatyCat/anim+/Material__38_Base_color.Material__38_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.24.23:568][  5]LogMaterial: Display: Missing cached shadermap for Material__38 in PCD3D_SM5, Default, SM5 (DDC key hash: AF8E48C0F7BE706E99EE5935A8285FC43DA92EA4), compiling. 
+[2023.01.22-17.24.23:573][  5]LogMaterial: Display: Material /Game/G2S1_project/animation/CatyCat/anim+/Material__39.Material__39 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.24.23:579][  5]LogMaterial: Display: Missing cached shadermap for Material__39 in PCD3D_SM5, Default, SM5 (DDC key hash: 5A983250CA382165460829AACA880FE7AAD0636C), compiling. 
+[2023.01.22-17.24.23:679][  5]LogTexture: Display: Building textures: /Game/G2S1_project/animation/CatyCat/anim+/Material__39_Base_color.Material__39_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.24.23:684][  5]LogMaterial: Display: Missing cached shadermap for Material__39 in PCD3D_SM5, Default, SM5 (DDC key hash: 4C2673A8A42E44C4EE6840144EAE083F435E825B), compiling. 
+[2023.01.22-17.24.23:689][  5]LogMaterial: Display: Material /Game/G2S1_project/animation/CatyCat/anim+/Material__40.Material__40 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.24.23:695][  5]LogMaterial: Display: Missing cached shadermap for Material__40 in PCD3D_SM5, Default, SM5 (DDC key hash: EFB6EDCCAA915F9B27684B99E182DE6280B36C48), compiling. 
+[2023.01.22-17.24.23:788][  5]LogTexture: Display: Building textures: /Game/G2S1_project/animation/CatyCat/anim+/Material__40_Base_color.Material__40_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.24.23:791][  5]LogMaterial: Display: Missing cached shadermap for Material__40 in PCD3D_SM5, Default, SM5 (DDC key hash: CD5BFCB60D873999CF4EC61BA4842A718D525866), compiling. 
+[2023.01.22-17.24.23:795][  5]LogMaterial: Display: Material /Game/G2S1_project/animation/CatyCat/anim+/Material__41.Material__41 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.24.23:803][  5]LogMaterial: Display: Missing cached shadermap for Material__41 in PCD3D_SM5, Default, SM5 (DDC key hash: D01B745B3F0A2B3B11CB63B80F176072F183E8BD), compiling. 
+[2023.01.22-17.24.23:907][  5]LogTexture: Display: Building textures: /Game/G2S1_project/animation/CatyCat/anim+/Material__41_Base_color.Material__41_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.24.23:913][  5]LogMaterial: Display: Missing cached shadermap for Material__41 in PCD3D_SM5, Default, SM5 (DDC key hash: 40566230F2D888084FE6CA05A5A3C860FACAC366), compiling. 
+[2023.01.22-17.24.23:919][  5]LogMaterial: Display: Material /Game/G2S1_project/animation/CatyCat/anim+/Material__42.Material__42 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.24.23:927][  5]LogMaterial: Display: Missing cached shadermap for Material__42 in PCD3D_SM5, Default, SM5 (DDC key hash: E0E526DB4E7949164F5BAA1240C120801DD0342B), compiling. 
+[2023.01.22-17.24.24:043][  5]LogTexture: Display: Building textures: /Game/G2S1_project/animation/CatyCat/anim+/Material__42_Base_color.Material__42_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.24.24:048][  5]LogMaterial: Display: Missing cached shadermap for Material__42 in PCD3D_SM5, Default, SM5 (DDC key hash: D28599D31FBAAB07522A20B8CB1D553FDB077A78), compiling. 
+[2023.01.22-17.24.24:056][  5]LogFbx: Triangulating skeletal mesh cathy
+[2023.01.22-17.24.28:084][  5]LogFbx: Warning: Bones digested - 33  Depth of hierarchy - 12
+[2023.01.22-17.24.31:680][  5]LogSkeletalMesh: Section 0: Material=0, 696 triangles
+[2023.01.22-17.24.31:680][  5]LogSkeletalMesh: Section 1: Material=1, 46508 triangles
+[2023.01.22-17.24.31:680][  5]LogSkeletalMesh: Section 2: Material=2, 100182 triangles
+[2023.01.22-17.24.31:680][  5]LogSkeletalMesh: Section 3: Material=3, 20910 triangles
+[2023.01.22-17.24.31:680][  5]LogSkeletalMesh: Section 4: Material=4, 8724 triangles
+[2023.01.22-17.24.31:680][  5]LogSkeletalMesh: Section 5: Material=5, 23734 triangles
+[2023.01.22-17.24.31:831][  5]LogSkeletalMesh: Building Skeletal Mesh Idle_caty_cat...
+[2023.01.22-17.24.31:831][  5]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Idle_caty_cat) ...
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: ================================================
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: Total job queries 420, among them cache hits 37 (8.81%)
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: Tracking 110 distinct input hashes that result in 18 distinct outputs (16.36%)
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: Shaders Compiled: 384
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: Jobs assigned 110, completed 110 (100.00%)
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: Average time worker was idle: 74.49 s
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: Time job spent in pending queue: average 0.35 s, longest 2.78 s
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: Job execution time: average 3.65 s, max 5.41 s
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: Job life time (pending + execution): average 4.00 s, max 5.44
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.28 s
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: Jobs were issued in 52 batches (only local compilation was used), average 2.12 jobs/batch
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: Average processing rate: 6.37 jobs/sec
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: Effective parallelization: 6.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   19 times, average 1.18 sec, max 1.64 sec, min 0.71 sec)
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   10 times, average 1.13 sec, max 1.38 sec, min 0.80 sec)
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 1.12 sec, max 1.46 sec, min 0.63 sec)
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 1.08 sec, max 1.22 sec, min 0.89 sec)
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 1.08 sec, max 1.29 sec, min 0.63 sec)
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.78% of total time (compiled   19 times, average 1.18 sec, max 1.64 sec, min 0.71 sec)
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.63% of total time (compiled   16 times, average 1.12 sec, max 1.46 sec, min 0.63 sec)
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.50% of total time (compiled   10 times, average 1.13 sec, max 1.38 sec, min 0.80 sec)
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display:                                             FDebugViewModeVS - 5.57% of total time (compiled    6 times, average 1.00 sec, max 1.14 sec, min 0.92 sec)
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 4.87% of total time (compiled    5 times, average 1.05 sec, max 1.26 sec, min 0.93 sec)
+[2023.01.22-17.24.31:832][  5]LogShaderCompilers: Display: ================================================
+[2023.01.22-17.24.35:000][  5]LogSkeletalMesh: Built Skeletal Mesh [3.15s] /Game/G2S1_project/animation/CatyCat/anim+/Idle_caty_cat.Idle_caty_cat
+[2023.01.22-17.24.35:001][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-17.24.35:015][  5]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-17.24.35:015][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-17.24.35:027][  5]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.01.22-17.24.35:094][  5]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Idle_caty_cat) ...
+[2023.01.22-17.24.42:847][436]LogSlate: Window 'Content Browser' being destroyed
+[2023.01.22-17.24.44:238][519]LogSlate: Window 'Message Log' being destroyed
+[2023.01.22-17.24.44:243][519]LogSlate: Window 'Message Log' being destroyed
+[2023.01.22-17.25.29:603][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.01.22-17.25.32:068][635]LogSlate: Window 'Delete Assets' being destroyed
+[2023.01.22-17.25.32:102][635]LogUObjectGlobals: Force Deleting 14 Package(s):
+	Asset Name: /Game/G2S1_project/animation/CatyCat/anim+/Idle_caty_cat.Idle_caty_cat
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/G2S1_project/animation/CatyCat/anim+/Idle_caty_cat_PhysicsAsset.Idle_caty_cat_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/G2S1_project/animation/CatyCat/anim+/Lunettes.Lunettes
+	Asset Type: Material
+	Asset Name: /Game/G2S1_project/animation/CatyCat/anim+/Lunettes_Base_color.Lunettes_Base_color
+	Asset Type: Texture2D
+	Asset Name: /Game/G2S1_project/animation/CatyCat/anim+/Material__38.Material__38
+	Asset Type: Material
+	Asset Name: /Game/G2S1_project/animation/CatyCat/anim+/Material__39.Material__39
+	Asset Type: Material
+	Asset Name: /Game/G2S1_project/animation/CatyCat/anim+/Material__40.Material__40
+	Asset Type: Material
+	Asset Name: /Game/G2S1_project/animation/CatyCat/anim+/Material__41.Material__41
+	Asset Type: Material
+	Asset Name: /Game/G2S1_project/animation/CatyCat/anim+/Material__42.Material__42
+	Asset Type: Material
+	Asset Name: /Game/G2S1_project/animation/CatyCat/anim+/Material__38_Base_color.Material__38_Base_color
+	Asset Type: Texture2D
+[2023.01.22-17.25.32:250][635]LogMaterial: Display: Missing cached shadermap for Material__42 in PCD3D_SM5, Default, SM5 (DDC key hash: 07479DB1463B7CD3FE20034082DD730DBDBF0C98), compiling. 
+[2023.01.22-17.25.32:252][635]LogMaterial: Warning: [AssetLog] /Game/G2S1_project/animation/CatyCat/anim+/Material__42.Material__42 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.01.22-17.25.32:252][635]LogMaterial: Warning: Material__42: Requesting an invalid TextureIndex! (0 / 0)
+[2023.01.22-17.25.32:255][635]LogMaterial: Display: Missing cached shadermap for Material__41 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F52C0427300F82453CC55DEE765B2095C252F93), compiling. 
+[2023.01.22-17.25.32:255][635]LogMaterial: Warning: [AssetLog] /Game/G2S1_project/animation/CatyCat/anim+/Material__41.Material__41 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.01.22-17.25.32:258][635]LogMaterial: Display: Missing cached shadermap for Material__40 in PCD3D_SM5, Default, SM5 (DDC key hash: 214CFE6F1C7017D2E172CCC0882E6CBC00256639), compiling. 
+[2023.01.22-17.25.32:258][635]LogMaterial: Warning: [AssetLog] /Game/G2S1_project/animation/CatyCat/anim+/Material__40.Material__40 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.01.22-17.25.32:261][635]LogMaterial: Display: Missing cached shadermap for Material__39 in PCD3D_SM5, Default, SM5 (DDC key hash: 25DD15D5624918B3FB35B5E2779E9983BE6CC1AF), compiling. 
+[2023.01.22-17.25.32:262][635]LogMaterial: Warning: [AssetLog] /Game/G2S1_project/animation/CatyCat/anim+/Material__39.Material__39 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.01.22-17.25.32:265][635]LogMaterial: Display: Missing cached shadermap for Material__38 in PCD3D_SM5, Default, SM5 (DDC key hash: A1CFFEDFAD6A6E112E8AE3A089ECCDC79AD78771), compiling. 
+[2023.01.22-17.25.32:265][635]LogMaterial: Warning: [AssetLog] /Game/G2S1_project/animation/CatyCat/anim+/Material__38.Material__38 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.01.22-17.25.32:268][635]LogMaterial: Display: Missing cached shadermap for Lunettes in PCD3D_SM5, Default, SM5 (DDC key hash: 83AD0D3307F0A20629E81188A0FE941FC3854694), compiling. 
+[2023.01.22-17.25.32:268][635]LogMaterial: Warning: [AssetLog] /Game/G2S1_project/animation/CatyCat/anim+/Lunettes.Lunettes (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.01.22-17.25.32:286][635]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Idle_caty_cat) ...
+[2023.01.22-17.25.32:390][635]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Idle_caty_cat) ...
+[2023.01.22-17.25.32:494][635]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Idle_caty_cat) ...
+[2023.01.22-17.25.32:595][635]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Idle_caty_cat) ...
+[2023.01.22-17.25.32:698][635]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Idle_caty_cat) ...
+[2023.01.22-17.25.32:804][635]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Idle_caty_cat) ...
+[2023.01.22-17.25.33:056][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.01.22-17.25.33:063][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.01.22-17.25.33:070][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.01.22-17.25.38:615][768]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\grego\Downloads\Idle_caty_cat.fbx)
+[2023.01.22-17.25.38:748][768]LogFbx: Loading FBX Scene from C:\Users\grego\Downloads\Idle_caty_cat.fbx
+[2023.01.22-17.25.38:923][768]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.22-17.25.57:274][768]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.01.22-17.25.57:292][768]LogFbx: Valid bind pose for Pose (BindPose) - cathy
+[2023.01.22-17.25.57:303][768]LogFbx: Triangulating skeletal mesh cathy
+[2023.01.22-17.25.59:878][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.01.22-17.25.59:879][768]LogLinker: Warning: Failed to load '/Game/G2S1_project/animation/CatyCat/anim+/Idle_caty_cat': Can't find file.
+[2023.01.22-17.25.59:879][768]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/G2S1_project/animation/CatyCat/anim+/Idle_caty_cat.Idle_caty_cat'
+[2023.01.22-17.25.59:879][768]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.01.22-17.26.00:017][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.01.22-17.26.00:024][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.01.22-17.26.00:031][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.01.22-17.26.00:081][768]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.01.22-17.26.00:081][768]FBXImport: Import was canceled. 
+[2023.01.22-17.26.00:135][768]LogAssetTools: The import task was canceled.
+[2023.01.22-17.26.02:046][867]LogSlate: Window 'Message Log' being destroyed
+[2023.01.22-17.26.02:051][867]LogSlate: Window 'Message Log' being destroyed
+[2023.01.22-17.26.04:180][995]LogSlate: Window 'Content Browser' being destroyed
+[2023.01.22-17.26.04:184][995]LogSlate: Window 'Content Browser' being destroyed
+[2023.01.22-17.26.07:861][127]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\grego\Downloads\Idle_caty_cat.fbx)
+[2023.01.22-17.26.07:993][127]LogFbx: Loading FBX Scene from C:\Users\grego\Downloads\Idle_caty_cat.fbx
+[2023.01.22-17.26.08:157][127]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.22-17.26.16:127][127]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.01.22-17.26.16:140][127]LogFbx: Valid bind pose for Pose (BindPose) - cathy
+[2023.01.22-17.26.16:150][127]LogFbx: Triangulating skeletal mesh cathy
+[2023.01.22-17.26.18:679][127]LogUObjectHash: Warning: Ambiguous path search, could be Material /Game/catthy_humain/lunettes.lunettes or Material /Game/G2S1_project/animation/CatyCat/Lunettes.Lunettes
+[2023.01.22-17.26.18:679][127]LogFbx: Warning: Bones digested - 33  Depth of hierarchy - 12
+[2023.01.22-17.26.22:038][127]LogSkeletalMesh: Section 0: Material=0, 696 triangles
+[2023.01.22-17.26.22:038][127]LogSkeletalMesh: Section 1: Material=1, 46508 triangles
+[2023.01.22-17.26.22:038][127]LogSkeletalMesh: Section 2: Material=2, 100182 triangles
+[2023.01.22-17.26.22:038][127]LogSkeletalMesh: Section 3: Material=3, 20910 triangles
+[2023.01.22-17.26.22:038][127]LogSkeletalMesh: Section 4: Material=4, 8724 triangles
+[2023.01.22-17.26.22:038][127]LogSkeletalMesh: Section 5: Material=5, 23734 triangles
+[2023.01.22-17.26.22:192][127]LogSkeletalMesh: Building Skeletal Mesh Idle_caty_cat...
+[2023.01.22-17.26.22:192][127]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Idle_caty_cat) ...
+[2023.01.22-17.26.25:369][127]LogSkeletalMesh: Built Skeletal Mesh [3.16s] /Game/G2S1_project/animation/CatyCat/anim+/Idle_caty_cat.Idle_caty_cat
+[2023.01.22-17.26.25:369][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-17.26.25:379][127]LogMaterial: Display: Material /Game/catthy_humain/lunettes.lunettes needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.26.25:383][127]LogMaterial: Display: Missing cached shadermap for lunettes in PCD3D_SM5, Default, SM5 (DDC key hash: 0605B3B0ABF0AA6E6DC7ABCC6A7438E0F454F926), compiling. 
+[2023.01.22-17.26.25:412][127]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-17.26.25:412][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-17.26.25:426][127]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.01.22-17.26.25:502][127]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Idle_caty_cat) ...
+[2023.01.22-17.26.28:911][232]LogSlate: Window 'Content Browser' being destroyed
+[2023.01.22-17.26.28:920][232]LogSlate: Window 'Content Browser' being destroyed
+[2023.01.22-17.26.30:296][289]LogSlate: Window 'Message Log' being destroyed
+[2023.01.22-17.26.30:306][289]LogSlate: Window 'Message Log' being destroyed
+[2023.01.22-17.26.34:831][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.01.22-17.26.34:833][542]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/G2S1_project/Levels/Level1' took 0.011
+[2023.01.22-17.26.34:835][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/catthy_humain/lunettes] ([1] browsable assets)...
+[2023.01.22-17.26.34:852][542]OBJ SavePackage:     Rendered thumbnail for [Material /Game/catthy_humain/lunettes.lunettes]
+[2023.01.22-17.26.34:852][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/catthy_humain/lunettes]
+[2023.01.22-17.26.34:856][542]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004326 seconds
+[2023.01.22-17.26.34:858][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/catthy_humain/lunettes_Auto1
+[2023.01.22-17.26.34:858][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/lunettes_Auto1194E555D473ED49C5A097698C5E70E81.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/catthy_humain/lunettes_Auto1.uasset'
+[2023.01.22-17.26.34:859][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/Crouch_Walk_Forward_caty_cat] ([1] browsable assets)...
+[2023.01.22-17.26.34:867][542]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/G2S1_project/animation/CatyCat/Crouch_Walk_Forward_caty_cat.Crouch_Walk_Forward_caty_cat]
+[2023.01.22-17.26.34:867][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/Crouch_Walk_Forward_caty_cat]
+[2023.01.22-17.26.35:130][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/Crouch_Walk_Forward_caty_cat_Auto1
+[2023.01.22-17.26.35:130][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Crouch_Walk_Forward_caty_cat_Aut46C9BEA44A2BCDFD47CF6689CA8DDC0D.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/Crouch_Walk_Forward_caty_cat_Auto1.uasset'
+[2023.01.22-17.26.35:131][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/Crouch_Walk_Forward_caty_cat_Skeleton] ([1] browsable assets)...
+[2023.01.22-17.26.35:139][542]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/G2S1_project/animation/CatyCat/Crouch_Walk_Forward_caty_cat_Skeleton.Crouch_Walk_Forward_caty_cat_Skeleton]
+[2023.01.22-17.26.35:139][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/Crouch_Walk_Forward_caty_cat_Skeleton]
+[2023.01.22-17.26.35:141][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/Crouch_Walk_Forward_caty_cat_Skeleton_Auto1
+[2023.01.22-17.26.35:141][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Crouch_Walk_Forward_caty_cat_Ske94FAC0FB4EF3CFA11C14ECAC0A99B752.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/Crouch_Walk_Forward_caty_cat_Skeleton_Auto1.uasset'
+[2023.01.22-17.26.35:141][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/Crouch_Walk_Forward_caty_cat_PhysicsAsset] ([1] browsable assets)...
+[2023.01.22-17.26.35:148][542]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/G2S1_project/animation/CatyCat/Crouch_Walk_Forward_caty_cat_PhysicsAsset.Crouch_Walk_Forward_caty_cat_PhysicsAsset]
+[2023.01.22-17.26.35:148][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/Crouch_Walk_Forward_caty_cat_PhysicsAsset]
+[2023.01.22-17.26.35:152][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/Crouch_Walk_Forward_caty_cat_PhysicsAsset_Auto1
+[2023.01.22-17.26.35:152][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Crouch_Walk_Forward_caty_cat_Phy825A65DC4C1242448FA9E0920A2BE5DF.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/Crouch_Walk_Forward_caty_cat_PhysicsAsset_Auto1.uasset'
+[2023.01.22-17.26.35:152][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/Walk_caty_cat] ([1] browsable assets)...
+[2023.01.22-17.26.35:159][542]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/G2S1_project/animation/CatyCat/Walk_caty_cat.Walk_caty_cat]
+[2023.01.22-17.26.35:159][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/Walk_caty_cat]
+[2023.01.22-17.26.35:426][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/Walk_caty_cat_Auto1
+[2023.01.22-17.26.35:426][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Walk_caty_cat_Auto1233E3749423C6B71E7E56BAD3793F28F.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/Walk_caty_cat_Auto1.uasset'
+[2023.01.22-17.26.35:427][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/Walk_caty_cat_Skeleton] ([1] browsable assets)...
+[2023.01.22-17.26.35:437][542]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/G2S1_project/animation/CatyCat/Walk_caty_cat_Skeleton.Walk_caty_cat_Skeleton]
+[2023.01.22-17.26.35:437][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/Walk_caty_cat_Skeleton]
+[2023.01.22-17.26.35:438][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/Walk_caty_cat_Skeleton_Auto1
+[2023.01.22-17.26.35:438][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Walk_caty_cat_Skeleton_Auto1DA5160E14CEA780E6649389E0FF39209.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/Walk_caty_cat_Skeleton_Auto1.uasset'
+[2023.01.22-17.26.35:439][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/Walk_caty_cat_PhysicsAsset] ([1] browsable assets)...
+[2023.01.22-17.26.35:446][542]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/G2S1_project/animation/CatyCat/Walk_caty_cat_PhysicsAsset.Walk_caty_cat_PhysicsAsset]
+[2023.01.22-17.26.35:446][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/Walk_caty_cat_PhysicsAsset]
+[2023.01.22-17.26.35:449][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/Walk_caty_cat_PhysicsAsset_Auto1
+[2023.01.22-17.26.35:449][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Walk_caty_cat_PhysicsAsset_Auto15C05CA234432149BC44AD7AC5640CE17.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/Walk_caty_cat_PhysicsAsset_Auto1.uasset'
+[2023.01.22-17.26.35:450][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/Idle_caty_cat] ([1] browsable assets)...
+[2023.01.22-17.26.35:457][542]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/G2S1_project/animation/CatyCat/Idle_caty_cat.Idle_caty_cat]
+[2023.01.22-17.26.35:457][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/Idle_caty_cat]
+[2023.01.22-17.26.35:729][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/Idle_caty_cat_Auto1
+[2023.01.22-17.26.35:729][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Idle_caty_cat_Auto1CC8C702147B3E8AB19E168A775BBA3C0.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/Idle_caty_cat_Auto1.uasset'
+[2023.01.22-17.26.35:730][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/Idle_caty_cat_Skeleton] ([1] browsable assets)...
+[2023.01.22-17.26.35:738][542]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/G2S1_project/animation/CatyCat/Idle_caty_cat_Skeleton.Idle_caty_cat_Skeleton]
+[2023.01.22-17.26.35:738][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/Idle_caty_cat_Skeleton]
+[2023.01.22-17.26.35:740][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/Idle_caty_cat_Skeleton_Auto1
+[2023.01.22-17.26.35:740][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Idle_caty_cat_Skeleton_Auto15015F4034152292D24AE2B9A062F80E1.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/Idle_caty_cat_Skeleton_Auto1.uasset'
+[2023.01.22-17.26.35:740][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/Idle_caty_cat_PhysicsAsset] ([1] browsable assets)...
+[2023.01.22-17.26.35:747][542]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/G2S1_project/animation/CatyCat/Idle_caty_cat_PhysicsAsset.Idle_caty_cat_PhysicsAsset]
+[2023.01.22-17.26.35:747][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/Idle_caty_cat_PhysicsAsset]
+[2023.01.22-17.26.35:751][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/Idle_caty_cat_PhysicsAsset_Auto1
+[2023.01.22-17.26.35:751][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Idle_caty_cat_PhysicsAsset_Auto1F8E9A56C454CBD0853E3C4A1E1DBFED8.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/Idle_caty_cat_PhysicsAsset_Auto1.uasset'
+[2023.01.22-17.26.35:751][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/Talking_caty_cat] ([1] browsable assets)...
+[2023.01.22-17.26.35:758][542]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/G2S1_project/animation/CatyCat/Talking_caty_cat.Talking_caty_cat]
+[2023.01.22-17.26.35:758][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/Talking_caty_cat]
+[2023.01.22-17.26.36:028][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/Talking_caty_cat_Auto1
+[2023.01.22-17.26.36:028][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Talking_caty_cat_Auto1CD15E4844EFB77683E829AB2C0A06161.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/Talking_caty_cat_Auto1.uasset'
+[2023.01.22-17.26.36:029][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/Talking_caty_cat_Skeleton] ([1] browsable assets)...
+[2023.01.22-17.26.36:037][542]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/G2S1_project/animation/CatyCat/Talking_caty_cat_Skeleton.Talking_caty_cat_Skeleton]
+[2023.01.22-17.26.36:037][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/Talking_caty_cat_Skeleton]
+[2023.01.22-17.26.36:038][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/Talking_caty_cat_Skeleton_Auto1
+[2023.01.22-17.26.36:038][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Talking_caty_cat_Skeleton_Auto1F12FFDCF4C286BA4B7C300845EAFC397.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/Talking_caty_cat_Skeleton_Auto1.uasset'
+[2023.01.22-17.26.36:039][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/Talking_caty_cat_PhysicsAsset] ([1] browsable assets)...
+[2023.01.22-17.26.36:046][542]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/G2S1_project/animation/CatyCat/Talking_caty_cat_PhysicsAsset.Talking_caty_cat_PhysicsAsset]
+[2023.01.22-17.26.36:046][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/Talking_caty_cat_PhysicsAsset]
+[2023.01.22-17.26.36:050][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/Talking_caty_cat_PhysicsAsset_Auto1
+[2023.01.22-17.26.36:050][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Talking_caty_cat_PhysicsAsset_Au93371C7740B1351F9F1F0F9855A16CEC.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/Talking_caty_cat_PhysicsAsset_Auto1.uasset'
+[2023.01.22-17.26.36:050][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/Opening_caty_cat] ([1] browsable assets)...
+[2023.01.22-17.26.36:058][542]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/G2S1_project/animation/CatyCat/Opening_caty_cat.Opening_caty_cat]
+[2023.01.22-17.26.36:058][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/Opening_caty_cat]
+[2023.01.22-17.26.36:321][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/Opening_caty_cat_Auto1
+[2023.01.22-17.26.36:321][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Opening_caty_cat_Auto124557736420225A678528894D5076CB2.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/Opening_caty_cat_Auto1.uasset'
+[2023.01.22-17.26.36:322][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/Opening_caty_cat_Skeleton] ([1] browsable assets)...
+[2023.01.22-17.26.36:331][542]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/G2S1_project/animation/CatyCat/Opening_caty_cat_Skeleton.Opening_caty_cat_Skeleton]
+[2023.01.22-17.26.36:331][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/Opening_caty_cat_Skeleton]
+[2023.01.22-17.26.36:332][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/Opening_caty_cat_Skeleton_Auto1
+[2023.01.22-17.26.36:332][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Opening_caty_cat_Skeleton_Auto1EAC24AD04F5E433E4094029F41C25663.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/Opening_caty_cat_Skeleton_Auto1.uasset'
+[2023.01.22-17.26.36:333][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/Opening_caty_cat_PhysicsAsset] ([1] browsable assets)...
+[2023.01.22-17.26.36:340][542]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/G2S1_project/animation/CatyCat/Opening_caty_cat_PhysicsAsset.Opening_caty_cat_PhysicsAsset]
+[2023.01.22-17.26.36:340][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/Opening_caty_cat_PhysicsAsset]
+[2023.01.22-17.26.36:343][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/Opening_caty_cat_PhysicsAsset_Auto1
+[2023.01.22-17.26.36:343][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Opening_caty_cat_PhysicsAsset_AuA6FDE5074E276F252FC372851F75E013.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/Opening_caty_cat_PhysicsAsset_Auto1.uasset'
+[2023.01.22-17.26.36:345][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/anim+/Idle_caty_cat] ([1] browsable assets)...
+[2023.01.22-17.26.36:352][542]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/G2S1_project/animation/CatyCat/anim+/Idle_caty_cat.Idle_caty_cat]
+[2023.01.22-17.26.36:352][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/anim+/Idle_caty_cat]
+[2023.01.22-17.26.36:620][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/anim+/Idle_caty_cat_Auto1
+[2023.01.22-17.26.36:620][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Idle_caty_cat_Auto1E70443A44D2A7886AF2DD08EA021E485.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/anim+/Idle_caty_cat_Auto1.uasset'
+[2023.01.22-17.26.36:621][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/anim+/Idle_caty_cat_PhysicsAsset] ([1] browsable assets)...
+[2023.01.22-17.26.36:628][542]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/G2S1_project/animation/CatyCat/anim+/Idle_caty_cat_PhysicsAsset.Idle_caty_cat_PhysicsAsset]
+[2023.01.22-17.26.36:628][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/anim+/Idle_caty_cat_PhysicsAsset]
+[2023.01.22-17.26.36:632][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/anim+/Idle_caty_cat_PhysicsAsset_Auto1
+[2023.01.22-17.26.36:632][542]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Idle_caty_cat_PhysicsAsset_Auto1E442CE4E49642266EAB6CB8B321EAB97.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/anim+/Idle_caty_cat_PhysicsAsset_Auto1.uasset'
+[2023.01.22-17.26.36:633][542]LogFileHelpers: Auto-saving content packages took 1.800
+[2023.01.22-17.26.53:102][950]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\grego\Downloads\Talking_caty_cat.fbx)
+[2023.01.22-17.26.53:237][950]LogFbx: Loading FBX Scene from C:\Users\grego\Downloads\Talking_caty_cat.fbx
+[2023.01.22-17.26.53:390][950]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.22-17.27.08:581][950]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.01.22-17.27.08:593][950]LogFbx: Valid bind pose for Pose (BindPose) - cathy
+[2023.01.22-17.27.08:603][950]LogFbx: Triangulating skeletal mesh cathy
+[2023.01.22-17.27.11:160][950]LogUObjectHash: Warning: Ambiguous path search, could be Material /Game/catthy_humain/lunettes.lunettes or Material /Game/G2S1_project/animation/CatyCat/Lunettes.Lunettes
+[2023.01.22-17.27.11:160][950]LogFbx: Warning: Bones digested - 33  Depth of hierarchy - 12
+[2023.01.22-17.27.14:573][950]LogSkeletalMesh: Section 0: Material=0, 696 triangles
+[2023.01.22-17.27.14:573][950]LogSkeletalMesh: Section 1: Material=1, 46508 triangles
+[2023.01.22-17.27.14:573][950]LogSkeletalMesh: Section 2: Material=2, 100182 triangles
+[2023.01.22-17.27.14:573][950]LogSkeletalMesh: Section 3: Material=3, 20910 triangles
+[2023.01.22-17.27.14:573][950]LogSkeletalMesh: Section 4: Material=4, 8724 triangles
+[2023.01.22-17.27.14:573][950]LogSkeletalMesh: Section 5: Material=5, 23734 triangles
+[2023.01.22-17.27.14:726][950]LogSkeletalMesh: Building Skeletal Mesh Talking_caty_cat...
+[2023.01.22-17.27.14:726][950]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Talking_caty_cat) ...
+[2023.01.22-17.27.17:894][950]LogSkeletalMesh: Built Skeletal Mesh [3.15s] /Game/G2S1_project/animation/CatyCat/anim+/Talking_caty_cat.Talking_caty_cat
+[2023.01.22-17.27.17:894][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-17.27.17:907][950]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-17.27.17:907][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-17.27.17:920][950]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.01.22-17.27.17:988][950]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Talking_caty_cat) ...
+[2023.01.22-17.27.28:482][569]LogSlate: Window 'Message Log' being destroyed
+[2023.01.22-17.27.28:486][569]LogSlate: Window 'Message Log' being destroyed
+[2023.01.22-17.28.39:928][633]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.22-17.28.43:486][633]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2023.01.22-17.28.56:355][839]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2023.01.22-17.28.56:361][839]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2023.01.22-17.28.56:365][839]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2023.01.22-17.28.56:376][840]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2023.01.22-17.29.07:118][477]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> CatyCatest
+[2023.01.22-17.29.07:124][477]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2023.01.22-17.29.08:512][556]LogSavePackage: Moving output files for package: /Game/G2S1_project/animation/CatyCat/anim+/CatyCatest
+[2023.01.22-17.29.08:512][556]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/CatyCatest155DA0B8469C5E7C5BB0629FCBB4FE21.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Content/G2S1_project/animation/CatyCat/anim+/CatyCatest.uasset'
+[2023.01.22-17.29.08:523][556]AssetCheck: New page: Asset Save: CatyCatest
+[2023.01.22-17.29.08:523][556]LogContentValidation: Display: Validating AnimBlueprint /Game/G2S1_project/animation/CatyCat/anim+/CatyCatest.CatyCatest
+[2023.01.22-17.29.09:706][625]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/G2S1_project/animation/CatyCat/anim+/CatyCatest.CatyCatest
+[2023.01.22-17.29.09:706][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-17.29.09:713][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-17.29.09:720][625]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.01.22-17.29.10:677][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-17.29.10:748][625]LogSlate: Took 0.000566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.01.22-17.29.10:751][625]LogViewport: Scene viewport resized to 474x376, mode Windowed.
+[2023.01.22-17.31.01:264][109]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter
+[2023.01.22-17.31.01:265][109]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-17.31.05:320][325]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-17.31.05:320][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-17.31.11:378][681]LogViewport: Scene viewport resized to 473x390, mode Windowed.
+[2023.01.22-17.31.11:461][683]LogViewport: Scene viewport resized to 198x98, mode Windowed.
+[2023.01.22-17.31.11:495][684]LogViewport: Scene viewport resized to 193x93, mode Windowed.
+[2023.01.22-17.31.11:915][709]LogViewport: Scene viewport resized to 473x372, mode Windowed.
+[2023.01.22-17.31.12:200][726]LogSlate: Window 'CatyCatest' being destroyed
+[2023.01.22-17.31.12:768][759]BlueprintLog: New page: Compile CatyCatest
+[2023.01.22-17.31.12:813][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.01.22-17.31.12:839][759]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.01.22-17.31.13:677][806]LogSavePackage: Moving output files for package: /Game/G2S1_project/animation/CatyCat/anim+/CatyCatest
+[2023.01.22-17.31.13:678][806]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/CatyCatestD23DAAB0493822CB707A248678977AF7.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Content/G2S1_project/animation/CatyCat/anim+/CatyCatest.uasset'
+[2023.01.22-17.31.13:690][806]AssetCheck: New page: Asset Save: CatyCatest
+[2023.01.22-17.31.13:690][806]LogContentValidation: Display: Validating AnimBlueprint /Game/G2S1_project/animation/CatyCat/anim+/CatyCatest.CatyCatest
+[2023.01.22-17.31.22:673][ 71]LogSlate: Window 'Create New Animation Object' being destroyed
+[2023.01.22-17.36.18:629][295]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Quinn_Simple) ...
+[2023.01.22-17.37.00:322][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.01.22-17.37.00:327][390]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/G2S1_project/Levels/Level1' took 0.039
+[2023.01.22-17.37.00:328][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/anim+/Talking_caty_cat] ([1] browsable assets)...
+[2023.01.22-17.37.00:402][390]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/G2S1_project/animation/CatyCat/anim+/Talking_caty_cat.Talking_caty_cat]
+[2023.01.22-17.37.00:402][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/anim+/Talking_caty_cat]
+[2023.01.22-17.37.00:690][390]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/anim+/Talking_caty_cat_Auto2
+[2023.01.22-17.37.00:690][390]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Talking_caty_cat_Auto297655F184B87478C3532A2A21D4D7ECD.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/anim+/Talking_caty_cat_Auto2.uasset'
+[2023.01.22-17.37.00:696][390]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/G2S1_project/animation/CatyCat/anim+/Talking_caty_cat_PhysicsAsset] ([1] browsable assets)...
+[2023.01.22-17.37.00:728][390]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/G2S1_project/animation/CatyCat/anim+/Talking_caty_cat_PhysicsAsset.Talking_caty_cat_PhysicsAsset]
+[2023.01.22-17.37.00:728][390]OBJ SavePackage: Finished generating thumbnails for package [/Game/G2S1_project/animation/CatyCat/anim+/Talking_caty_cat_PhysicsAsset]
+[2023.01.22-17.37.00:732][390]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/G2S1_project/animation/CatyCat/anim+/Talking_caty_cat_PhysicsAsset_Auto2
+[2023.01.22-17.37.00:732][390]LogSavePackage: Moving '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Talking_caty_cat_PhysicsAsset_AuCD165F024171C1791D67B890698F3D66.tmp' to '../../../../../../Users/grego/OneDrive/Documents/GitHub/another-world-G2S1/Saved/Autosaves/Game/G2S1_project/animation/CatyCat/anim+/Talking_caty_cat_PhysicsAsset_Auto2.uasset'
+[2023.01.22-17.37.00:733][390]LogFileHelpers: Auto-saving content packages took 0.405
+[2023.01.22-17.42.23:343][101]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.22-17.42.23:354][101]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.22-17.42.23:361][102]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.22-17.42.26:340][281]LogContentBrowser: Attempting asset rename: NewFolder -> ArthurH
+[2023.01.22-17.42.26:341][281]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.22-17.42.30:501][520]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.22-17.42.30:514][520]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.22-17.42.30:521][521]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.01.22-17.42.34:291][743]LogContentBrowser: Attempting asset rename: NewFolder -> ArthurG
+[2023.01.22-17.42.34:291][743]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.22-17.42.48:143][208]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\grego\OneDrive\Bureau\LISAA\projet\anims\ArthurG\Arthur_Gorille_idle.fbx)
+[2023.01.22-17.42.48:334][208]LogFbx: Loading FBX Scene from C:\Users\grego\OneDrive\Bureau\LISAA\projet\anims\ArthurG\Arthur_Gorille_idle.fbx
+[2023.01.22-17.42.48:441][208]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.22-17.42.53:486][208]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.01.22-17.42.53:527][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.01.22-17.42.53:530][208]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.01.22-17.42.53:787][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.01.22-17.42.53:793][208]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SLevelEditor [LevelEditor.cpp(210)].
+[2023.01.22-17.42.53:793][208]FBXImport: Import was canceled. 
+[2023.01.22-17.42.53:843][208]LogAssetTools: The import task was canceled.
+[2023.01.22-17.42.55:403][288]LogSlate: Window 'Message Log' being destroyed
+[2023.01.22-17.42.55:407][288]LogSlate: Window 'Message Log' being destroyed
+[2023.01.22-17.43.15:932][599]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\grego\OneDrive\Bureau\LISAA\projet\anims\ArthurG\Arthur_Gorille_idle.fbx)
+[2023.01.22-17.43.16:122][599]LogFbx: Loading FBX Scene from C:\Users\grego\OneDrive\Bureau\LISAA\projet\anims\ArthurG\Arthur_Gorille_idle.fbx
+[2023.01.22-17.43.16:225][599]LogFbx: FBX Scene Loaded Succesfully
+[2023.01.22-17.43.33:448][599]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.01.22-17.43.33:464][599]LogFbx: Valid bind pose for Pose (BindPose) - Box005
+[2023.01.22-17.43.33:469][599]LogMaterial: Display: Material /Game/G2S1_project/animation/ArthurG/Material__98.Material__98 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.43.33:474][599]LogMaterial: Display: Missing cached shadermap for Material__98 in PCD3D_SM5, Default, SM5 (DDC key hash: D10AA9E2F05C7330AD2AA690A2C72C91594E93AF), compiling. 
+[2023.01.22-17.43.33:575][599]LogTexture: Display: Building textures: /Game/G2S1_project/animation/ArthurG/Material__98_Base_color.Material__98_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.43.33:579][599]LogMaterial: Display: Missing cached shadermap for Material__98 in PCD3D_SM5, Default, SM5 (DDC key hash: EDBD78D6947550283F96A6F19ACBF3E5A6BE191C), compiling. 
+[2023.01.22-17.43.33:585][599]LogMaterial: Display: Material /Game/G2S1_project/animation/ArthurG/Material__99.Material__99 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.43.33:594][599]LogMaterial: Display: Missing cached shadermap for Material__99 in PCD3D_SM5, Default, SM5 (DDC key hash: 432AD8F5173EA4E48DB3791F48CD74E35D7529EE), compiling. 
+[2023.01.22-17.43.33:701][599]LogTexture: Display: Building textures: /Game/G2S1_project/animation/ArthurG/Material__99_Base_color.Material__99_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.43.33:704][599]LogMaterial: Display: Missing cached shadermap for Material__99 in PCD3D_SM5, Default, SM5 (DDC key hash: 55B7473CFDE12AC1E8A595E0BD07D0460E067245), compiling. 
+[2023.01.22-17.43.33:710][599]LogMaterial: Display: Material /Game/G2S1_project/animation/ArthurG/Material__100.Material__100 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.43.33:721][599]LogMaterial: Display: Missing cached shadermap for Material__100 in PCD3D_SM5, Default, SM5 (DDC key hash: 4755495489C5215FA6785984E837357B67CA4F25), compiling. 
+[2023.01.22-17.43.33:846][599]LogTexture: Display: Building textures: /Game/G2S1_project/animation/ArthurG/Material__100_Base_color.Material__100_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.43.33:851][599]LogMaterial: Display: Missing cached shadermap for Material__100 in PCD3D_SM5, Default, SM5 (DDC key hash: 6030B070C60531378113B0926326887646C72781), compiling. 
+[2023.01.22-17.43.33:858][599]LogMaterial: Display: Material /Game/G2S1_project/animation/ArthurG/Material__101.Material__101 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.43.33:867][599]LogMaterial: Display: Missing cached shadermap for Material__101 in PCD3D_SM5, Default, SM5 (DDC key hash: 4A002CC9B405A3D68A88C1A9621703E1DA6E6882), compiling. 
+[2023.01.22-17.43.33:991][599]LogTexture: Display: Building textures: /Game/G2S1_project/animation/ArthurG/Material__101_Base_color.Material__101_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.43.33:998][599]LogMaterial: Display: Missing cached shadermap for Material__101 in PCD3D_SM5, Default, SM5 (DDC key hash: 4820A45C31624EDB176B14BE210583D9D61B683B), compiling. 
+[2023.01.22-17.43.34:005][599]LogMaterial: Display: Material /Game/G2S1_project/animation/ArthurG/Material__102.Material__102 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.43.34:015][599]LogMaterial: Display: Missing cached shadermap for Material__102 in PCD3D_SM5, Default, SM5 (DDC key hash: 2C87AB64136E3432E1E8A01833F238DA0224152B), compiling. 
+[2023.01.22-17.43.34:136][599]LogTexture: Display: Building textures: /Game/G2S1_project/animation/ArthurG/Material__102_Base_color.Material__102_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.43.34:141][599]LogMaterial: Display: Missing cached shadermap for Material__102 in PCD3D_SM5, Default, SM5 (DDC key hash: A0112B6CD748087A1CB34DC7779C50480FDB600F), compiling. 
+[2023.01.22-17.43.34:148][599]LogMaterial: Display: Material /Game/G2S1_project/animation/ArthurG/Material__104.Material__104 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.43.34:158][599]LogMaterial: Display: Missing cached shadermap for Material__104 in PCD3D_SM5, Default, SM5 (DDC key hash: 084786A664B9ABB7A23D738F03169D7500E465AC), compiling. 
+[2023.01.22-17.43.34:285][599]LogTexture: Display: Building textures: /Game/G2S1_project/animation/ArthurG/Material__104_Base_color.Material__104_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.43.34:291][599]LogMaterial: Display: Missing cached shadermap for Material__104 in PCD3D_SM5, Default, SM5 (DDC key hash: 65B577F1624D4351AD7793F837F6EF0519F6D9CE), compiling. 
+[2023.01.22-17.43.34:301][599]LogMaterial: Display: Material /Game/G2S1_project/animation/ArthurG/Material__105.Material__105 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.43.34:312][599]LogMaterial: Display: Missing cached shadermap for Material__105 in PCD3D_SM5, Default, SM5 (DDC key hash: D62F73CD058853F94BE265DACD3E9F442D2363DA), compiling. 
+[2023.01.22-17.43.34:479][599]LogTexture: Display: Building textures: /Game/G2S1_project/animation/ArthurG/Material__105_Base_color.Material__105_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.43.34:488][599]LogMaterial: Display: Missing cached shadermap for Material__105 in PCD3D_SM5, Default, SM5 (DDC key hash: C212D4DB6FE48E7C098FDF4F967DE09111E06BA0), compiling. 
+[2023.01.22-17.43.34:504][599]LogMaterial: Display: Material /Game/G2S1_project/animation/ArthurG/Material__106.Material__106 needed to have new flag set bUsedWithSkeletalMesh !
+[2023.01.22-17.43.34:517][599]LogMaterial: Display: Missing cached shadermap for Material__106 in PCD3D_SM5, Default, SM5 (DDC key hash: 53E77BE50CD7DD208580DC050F44EE383CA9C34F), compiling. 
+[2023.01.22-17.43.34:683][599]LogTexture: Display: Building textures: /Game/G2S1_project/animation/ArthurG/Material__106_Base_color.Material__106_Base_color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.01.22-17.43.34:691][599]LogMaterial: Display: Missing cached shadermap for Material__106 in PCD3D_SM5, Default, SM5 (DDC key hash: 062E99D5AC9FF23C45CF566B18495B705332A511), compiling. 
+[2023.01.22-17.43.34:706][599]LogFbx: Triangulating skeletal mesh Box005
+[2023.01.22-17.43.36:504][599]LogFbx: Warning: Bones digested - 41  Depth of hierarchy - 12
+[2023.01.22-17.43.38:530][599]LogSkeletalMesh: Section 0: Material=0, 29910 triangles
+[2023.01.22-17.43.38:530][599]LogSkeletalMesh: Section 1: Material=1, 5506 triangles
+[2023.01.22-17.43.38:530][599]LogSkeletalMesh: Section 2: Material=2, 5148 triangles
+[2023.01.22-17.43.38:530][599]LogSkeletalMesh: Section 3: Material=3, 4360 triangles
+[2023.01.22-17.43.38:530][599]LogSkeletalMesh: Section 4: Material=4, 4316 triangles
+[2023.01.22-17.43.38:530][599]LogSkeletalMesh: Section 5: Material=5, 16168 triangles
+[2023.01.22-17.43.38:530][599]LogSkeletalMesh: Section 6: Material=6, 4642 triangles
+[2023.01.22-17.43.38:530][599]LogSkeletalMesh: Section 7: Material=7, 5924 triangles
+[2023.01.22-17.43.38:775][599]LogSkeletalMesh: Building Skeletal Mesh Arthur_Gorille_idle...
+[2023.01.22-17.43.38:775][599]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Arthur_Gorille_idle) ...
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: ================================================
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: Total job queries 746, among them cache hits 75 (10.05%)
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: Tracking 159 distinct input hashes that result in 32 distinct outputs (20.13%)
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: RAM used: 0.09 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: Shaders Compiled: 672
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: Jobs assigned 179, completed 159 (88.83%)
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: Average time worker was idle: 210.18 s
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: Time job spent in pending queue: average 0.24 s, longest 2.78 s
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: Job execution time: average 4.18 s, max 6.30 s
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: Job life time (pending + execution): average 4.44 s, max 6.34
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.50 s
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: Jobs were issued in 67 batches (only local compilation was used), average 2.67 jobs/batch
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: Average processing rate: 5.58 jobs/sec
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: Effective parallelization: 5.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   21 times, average 1.17 sec, max 1.64 sec, min 0.71 sec)
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   12 times, average 1.16 sec, max 1.40 sec, min 0.80 sec)
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    8 times, average 1.15 sec, max 1.44 sec, min 0.93 sec)
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 1.14 sec, max 1.52 sec, min 0.63 sec)
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    7 times, average 1.11 sec, max 1.38 sec, min 0.66 sec)
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.27% of total time (compiled   21 times, average 1.17 sec, max 1.64 sec, min 0.71 sec)
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.40% of total time (compiled   18 times, average 1.10 sec, max 1.46 sec, min 0.63 sec)
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.65% of total time (compiled   12 times, average 1.16 sec, max 1.40 sec, min 0.80 sec)
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.31% of total time (compiled   10 times, average 1.01 sec, max 1.18 sec, min 0.85 sec)
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.72% of total time (compiled    8 times, average 1.15 sec, max 1.44 sec, min 0.93 sec)
+[2023.01.22-17.43.38:775][599]LogShaderCompilers: Display: ================================================
+[2023.01.22-17.43.40:008][599]LogSkeletalMesh: Built Skeletal Mesh [1.24s] /Game/G2S1_project/animation/ArthurG/Arthur_Gorille_idle.Arthur_Gorille_idle
+[2023.01.22-17.43.40:012][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.22-17.43.40:023][599]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.01.22-17.43.40:024][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.22-17.43.40:036][599]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.01.22-17.43.49:225][954]LogSlate: Window 'Message Log' being destroyed
+[2023.01.22-17.43.49:231][954]LogSlate: Window 'Message Log' being destroyed
